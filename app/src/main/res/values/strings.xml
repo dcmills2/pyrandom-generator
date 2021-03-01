@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Python Random Number Generator</string>
+    <string name="prompt_seed">Seed</string>
+    <string name="prompt_lower">Lower bound</string>
+    <string name="prompt_upper">Upper bound</string>
+    <string name="button_generate_label">Generate!</string>
+    <string name="button_clear_label">Clear</string>
+</resources>
